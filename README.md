@@ -54,6 +54,17 @@ _**Question 4: What is average mid-career salary of people that graduated from I
 _**ANSWER**_ : The average mid-career salary of Ivy League graduates is about $120,125
 
 _**Question 5: What is the average starting median salary of party schools and how does it compare to the average starting median salary of engineering schools?**_
+1. Create a pivot table of the salaries_by_college_type dataset
+2. Set the Rows function to "School Type" 
+3. Set the Values functuin to "Starting Median Salary" and select "AVERAGE"
+4. Add a filter for "School Type" and select "Party" 
+5. Get median average starting median salary of party schools which is $45,715
+!['Question 5 Step 5', 'Step 5'](/Q5_step5.png)
+6. Change filter for "School Type" to "Engineering"
+7. Get median average starting median salary of engineering schools which is $59,057
+!['Question 5 Step 7', 'Step 7'](/Q5_step7.png)
+
+_**ANSWER**_ : Engineering schools have a higher median starting salary than party schools
 
 
 
