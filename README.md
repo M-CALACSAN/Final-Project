@@ -15,9 +15,10 @@ _**Question 1: How does each school type rank in starting median salaries? (high
 1. Create a pivot table of the salaries_by_college_type dataset
 2. Set the Rows function to "School Type" <br>
 !['Question 1 Step 2', 'Step 2'](/Q1_step2.png)
-4. Set the Values function to "Starting Median Salary" and select "AVERAGE" <br>
-!['Question 1 Step 3', 'Step 3']
-6. Get pivot table and answer
+3. Set the Values function to "Starting Median Salary" and select "AVERAGE"
+!['Question 1 Step 3', 'Step 3'](/Q1_step3_png)
+4. Get pivot table and answer
+
 ** ANSWER: 
 
 _**Question 2: Which region of the U.S has the highest median starting salary?**_
