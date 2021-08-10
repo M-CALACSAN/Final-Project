@@ -33,7 +33,15 @@ _**ANSWER**_ : California with $51, 032.14 as the average starting salary
 
 _**Question 3: What is the percent change starting median salary to mid-career median salary of liberal arts schools?**_
 
+
 _**Question 4: What is average mid-career salary of people that graduated from Ivy League schools?**_
+1. Create a pivot table of the salaries_by_college_type dataset
+2. Set the Rows function to "School Type"
+3. Set the Values function to "Mid-Career Starting Salary" and select "AVERAGE"
+4. Add a filter for "School Type" and select "Ivy League" only
+5. Get answer
+
+-**ANSWER**_ : The average mid-career salary of Ivy League graduates is about $120,125
 
 _**Question 5: What is the average starting median salary of party schools and how does it compare to the average starting median salary of engineering schools?**_
 
