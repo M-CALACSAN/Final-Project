@@ -1,10 +1,10 @@
 # Final-Project: Analysis of Colleges in the U.S
-## By Miranda Calacsan
+### By Miranda Calacsan
 
 *The datasets I will be looking at are the salaries_by_college_type and salaries_by_region* <br>
 [Google Link](https://docs.google.com/spreadsheets/d/1ozqx3X2jfS3dyZFmvf43g2-FAip2kDUdBGGtY8Bnr_c/edit?usp=sharing) 
 
-### Data Analysis Process
+## Data Analysis Process
 1. How does each school type rank in starting median salaries? (Highest starting salary to lowest by average)
 2. Which region of the U.S has the highest average of the median starting salary?
 3. What is the percent change of the from starting median salary to mid-career median salary of liberal arts schools? (Dollar amount)
@@ -67,8 +67,10 @@ _**Question 5: What is the average starting median salary of party schools and h
 
 _**ANSWER**_ : Engineering schools have a higher median starting salary than party schools
 
+## ANALYSIS/CONCLUSIONS FROM THE DATA ABOVE
+From the information I gathered from the two datasets, I found that Ivy League and Engineering schools have higher median salaries than other school types. Though this may come to no suprise, seeing the actual numbers was interesting to see. Furthermore, I found that California has the highest average starting salary compared to other regions of the U.S. This may be correlated to the fact that California is an expensive state to live in. The salary must to higher for people to afford living here. Additionally, California is home to various industries such as tech (ex: Silicon Valley) and entertainment (ex: Hollywood). These job opportunities offer high pay salaries. However, more data is needed to see if this is the true cause of California's high starting salary. 
 
+## Data Visualization
 
-### Data Visualization
+## Story Summary
 
-### Story Summary
