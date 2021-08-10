@@ -40,7 +40,7 @@ _**Question 3: What is the average percent change of the starting median salary 
 4. Set the Values function to "PCHANGE_1.0" and get answer <br>
 !['Question 3 Step 4', 'Step 4'](/Q3_step4.png)
 
-_**ANSWER**_ : The average percent change in dollar amount is $89,278.72
+_**ANSWER**_ : The average percent change in dollar amount is $89,278.72 from liberal arts schools
 
 _**Question 4: What is average mid-career salary of people that graduated from Ivy League schools?**_
 1. Create a pivot table of the salaries_by_college_type dataset
