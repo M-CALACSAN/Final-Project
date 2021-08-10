@@ -73,4 +73,5 @@ From the information I gathered from the two datasets, I found that Ivy League a
 ## Data Visualization
 
 ## Story Summary
-
+Based on the data I collected, a possible story could be about why Ivy League schools rank the highest in median mid-career salary. I think it'd be interesting to see which high paying majors and/or career paths are associated with each college. Another direction I could take this story is looking at the median parent income and/or parent contribution students who attend Ivy League schools. Students coming from a high socioeconnomic status might be well off in their future prospects. This might be correlated to race as well. For this story, I could interview <br>
+To make this 
