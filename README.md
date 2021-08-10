@@ -15,17 +15,21 @@ _**Question 1: How does each school type rank in starting median salaries? (high
 1. Create a pivot table of the salaries_by_college_type dataset
 2. Set the Rows function to "School Type" <br>
 !['Question 1 Step 2', 'Step 2'](/Q1_step2.png)
-3. Set the Values function to "Starting Median Salary" and select "AVERAGE"
+3. Set the Values function to "Starting Median Salary" and select "AVERAGE" <br>
 !['Question 1 Step 3', 'Step 3'](/Q1_step3.png)
 4. Get pivot table and answer
 
-_**ANSWER**_ : Ivy League, Engineering, Liberal Arts, Party, State (highest - lowest)
+_**ANSWER**_ : Ivy League, Engineering, Liberal Arts, Party, State (highest - lowest) <br>
 
 _**Question 2: Which region of the U.S has the highest average of the median starting salary?**_
 1. Create a pivot table of salaries_by_region dataset
 2. Set the Rows function to "Region" <br>
-3. Set the Values function to "Starting Median Salary" and select "AVERAGE"
+![Question 2 Step 2', 'Step 2'](/Q2_step2.png)
+3. Set the Values function to "Starting Median Salary" and select "AVERAGE" <br>
+![Question 2 Step 3', 'Step 3'](/Q2_step3.png)
 4. Get pivot table and answer
+
+_**ANSWER**_ : California with $51, 032.14 as the average starting salary
 
 _**Question 3: What is the percent change starting median salary to mid-career median salary of liberal arts schools?**_
 
