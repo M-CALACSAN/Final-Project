@@ -6,7 +6,7 @@
 ### Data Analysis Process
 1. How does each school type rank in starting median salaries? (Highest starting salary to lowest by average)
 2. Which region of the U.S has the highest average of the median starting salary?
-3. What is the percent change from starting median salary to mid-career median salary of liberal arts schools?
+3. What is the percent change of the from starting median salary to mid-career median salary of liberal arts schools? (Dollar amount)
 4. What is the average mid-career salary of people that graduated from Ivy League schools? 
 5. What is the average starting median salary of party schools and how does it compare to the average starting median salary of engineering schools?
 
@@ -24,15 +24,23 @@ _**ANSWER**_ : Ivy League, Engineering, Liberal Arts, Party, State (highest - lo
 _**Question 2: Which region of the U.S has the highest average of the median starting salary?**_
 1. Create a pivot table of salaries_by_region dataset
 2. Set the Rows function to "Region" <br>
-![Question 2 Step 2', 'Step 2'](/Q2_step2.png)
+!['Question 2 Step 2', 'Step 2'](/Q2_step2.png)
 3. Set the Values function to "Starting Median Salary" and select "AVERAGE" <br>
 ![Question 2 Step 3', 'Step 3'](/Q2_step3.png)
 4. Get pivot table and answer
 
 _**ANSWER**_ : California with $51, 032.14 as the average starting salary
 
-_**Question 3: What is the percent change starting median salary to mid-career median salary of liberal arts schools?**_
+_**Question 3: What is the average percent change of the starting median salary to mid-career median salary of liberal arts schools? (Dollar amount) **_
+1. Create filter of just liberal art schools from the salaries_by_college_type dataset 
+!['Question 3 Step 1', 'Step 1'](/Q3_step1.png)
+2. Turn off filter and find the percent change in a new column of the data set
+!['Question 3 Step 2', 'Step 2'](/Q3_step2.png)
+3. Create a pivot table and filter only liberal arts schools
+4. Set the Values function to "PCHANGE_1.0" and get answer
+!['Question 3 Step 4', 'Step 4'](/Q3_step4.png)
 
+_**ANSWER**_ : The average percent change in dollar amount is $89,278.72
 
 _**Question 4: What is average mid-career salary of people that graduated from Ivy League schools?**_
 1. Create a pivot table of the salaries_by_college_type dataset
