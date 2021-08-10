@@ -59,10 +59,10 @@ _**Question 5: What is the average starting median salary of party schools and h
 2. Set the Rows function to "School Type" 
 3. Set the Values functuin to "Starting Median Salary" and select "AVERAGE"
 4. Add a filter for "School Type" and select "Party" 
-5. Get median average starting median salary of party schools which is $45,715
+5. Get median average starting median salary of party schools which is $45,715 <br>
 !['Question 5 Step 5', 'Step 5'](/Q5_step5.png)
 6. Change filter for "School Type" to "Engineering"
-7. Get median average starting median salary of engineering schools which is $59,057
+7. Get median average starting median salary of engineering schools which is $59,057 <br>
 !['Question 5 Step 7', 'Step 7'](/Q5_step7.png)
 
 _**ANSWER**_ : Engineering schools have a higher median starting salary than party schools
