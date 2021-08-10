@@ -37,11 +37,13 @@ _**Question 3: What is the percent change starting median salary to mid-career m
 _**Question 4: What is average mid-career salary of people that graduated from Ivy League schools?**_
 1. Create a pivot table of the salaries_by_college_type dataset
 2. Set the Rows function to "School Type"
-3. Set the Values function to "Mid-Career Starting Salary" and select "AVERAGE"
+3. Set the Values function to "Mid-Career Starting Salary" and select "AVERAGE" <br>
+!['Question 4 Step 3', 'Step 3'](/Q4_step3.png)
 4. Add a filter for "School Type" and select "Ivy League" only
-5. Get answer
+5. Get answer <br>
+![Question 4 Step 4', 'Step 4'](/Q4_step4.png) 
 
--**ANSWER**_ : The average mid-career salary of Ivy League graduates is about $120,125
+_**ANSWER**_ : The average mid-career salary of Ivy League graduates is about $120,125
 
 _**Question 5: What is the average starting median salary of party schools and how does it compare to the average starting median salary of engineering schools?**_
 
