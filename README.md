@@ -32,12 +32,12 @@ _**Question 2: Which region of the U.S has the highest average of the median sta
 _**ANSWER**_ : California with $51, 032.14 as the average starting salary
 
 _**Question 3: What is the average percent change of the starting median salary to mid-career median salary of liberal arts schools? (Dollar amount) **_
-1. Create filter of just liberal art schools from the salaries_by_college_type dataset 
+1. Create filter of just liberal art schools from the salaries_by_college_type dataset <br>
 !['Question 3 Step 1', 'Step 1'](/Q3_step1.png)
-2. Turn off filter and find the percent change in a new column of the data set
+2. Turn off filter and find the percent change in a new column of the data set <br>
 !['Question 3 Step 2', 'Step 2'](/Q3_step2.png)
 3. Create a pivot table and filter only liberal arts schools
-4. Set the Values function to "PCHANGE_1.0" and get answer
+4. Set the Values function to "PCHANGE_1.0" and get answer <br>
 !['Question 3 Step 4', 'Step 4'](/Q3_step4.png)
 
 _**ANSWER**_ : The average percent change in dollar amount is $89,278.72
