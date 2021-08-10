@@ -1,7 +1,8 @@
 # Final-Project: Analysis of Colleges in the U.S
 ## By Miranda Calacsan
 
-*The datasets I will be looking at are the salaries_by_college_type and salaries_by_region* 
+*The datasets I will be looking at are the salaries_by_college_type and salaries_by_region* <br>
+[Google Link](https://docs.google.com/spreadsheets/d/1ozqx3X2jfS3dyZFmvf43g2-FAip2kDUdBGGtY8Bnr_c/edit?usp=sharing) 
 
 ### Data Analysis Process
 1. How does each school type rank in starting median salaries? (Highest starting salary to lowest by average)
